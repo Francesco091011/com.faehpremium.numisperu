@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_reorder"
+        android:title="@string/action_reorder"
+        android:icon="@android:drawable/ic_menu_sort_by_size"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_export"
+        android:title="@string/action_export"
+        android:icon="@android:drawable/ic_menu_save"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_import"
+        android:title="@string/action_import"
+        android:icon="@android:drawable/ic_menu_upload"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_about"
+        android:title="Acerca de NumisPerú"
+        android:icon="@android:drawable/ic_menu_info_details"
+        app:showAsAction="never" />
+</menu>

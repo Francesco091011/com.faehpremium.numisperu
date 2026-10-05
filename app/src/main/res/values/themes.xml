@@ -1,0 +1,19 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Tema Base de NumisPerú usando MaterialComponents -->
+    <style name="Theme.NumisPerú" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Colores Primarios -->
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryVariant">@color/primary_dark</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Colores Secundarios (Dorado Numismático) -->
+        <item name="colorSecondary">@color/accent_gold</item>
+        <item name="colorSecondaryVariant">@color/accent_gold</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Color de barra de estado -->
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+
+        <!-- Tema para menús desplegables (Popup Menu) para evitar texto blanco sobre blanco -->
+        <item name="popupTheme">@style/ThemeOverlay.AppCompat.Light</item>
+        <item name="actionMenuTextColor">@color/white</item>
+    </style>
+</resources>

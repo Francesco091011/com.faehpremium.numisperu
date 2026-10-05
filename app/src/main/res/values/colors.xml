@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#8C1B1B</color>
+    <color name="primary_dark">#5C0D0D</color>
+    <color name="colorAccent">#D4AF37</color>
+    <color name="accent_gold">#D4AF37</color>
+    <color name="gold_light">#FFF8E1</color>
+
+    <color name="owned_green">#2E7D32</color>
+    <color name="owned_bg">#E8F5E9</color>
+    <color name="owned_border">#81C784</color>
+
+    <color name="unowned_bg">#FAFAFA</color>
+    <color name="unowned_text">#757575</color>
+
+    <color name="badge_quantity">#C62828</color>
+    <color name="badge_text">#FFFFFF</color>
+
+    <color name="purple_200">#8C1B1B</color>
+    <color name="purple_500">#8C1B1B</color>
+    <color name="purple_700">#5C0D0D</color>
+    <color name="teal_200">#D4AF37</color>
+    <color name="teal_700">#B7950B</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>

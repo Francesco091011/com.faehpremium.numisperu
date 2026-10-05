@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">NumisPerú</string>
+    <string name="app_full_name">NumisPerú - Gestor &amp; Catálogo Numismático</string>
+    <string name="title_collections">Catálogo de Monedas del Perú</string>
+    <string name="action_export">Exportar Copia de Seguridad</string>
+    <string name="action_import">Importar Copia de Seguridad</string>
+    <string name="action_reorder">Reordenar Colecciones</string>
+    <string name="action_about">Acerca de NumisPerú</string>
+    <string name="action_search">Buscar / Filtrar</string>
+    <string name="category_all">Todas</string>
+    <string name="category_commemorative">Series Conmemorativas</string>
+    <string name="category_modern">Soles Modernos</string>
+    <string name="category_historical">Soles Históricos</string>
+    <string name="category_silver">Históricas &amp; Plata</string>
+    <string name="category_custom">Personalizadas</string>
+</resources>
